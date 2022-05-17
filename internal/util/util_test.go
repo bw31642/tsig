@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bodgit/tsig"
+	"github.com/bw31642/tsig"
 	"github.com/miekg/dns"
 	"github.com/stretchr/testify/assert"
 )

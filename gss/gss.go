@@ -9,8 +9,8 @@ Example client:
                 "fmt"
                 "time"
 
-                "github.com/bodgit/tsig"
-                "github.com/bodgit/tsig/gss"
+                "github.com/bw31642/tsig"
+                "github.com/bw31642/tsig/gss"
                 "github.com/miekg/dns"
         )
 
@@ -77,7 +77,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/bodgit/tsig"
+	"github.com/bw31642/tsig"
 	"github.com/go-logr/logr"
 	multierror "github.com/hashicorp/go-multierror"
 	"github.com/miekg/dns"
